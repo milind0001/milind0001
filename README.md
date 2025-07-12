@@ -17,7 +17,7 @@
   <a href="https://www.linkedin.com/in/milind-patil-1aa333259/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" /></a>
   <a href="https://github.com/milind0001" target="_blank"><img align="center" src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github" /></a>
   <a href="https://leetcode.com/milind_100" target="_blank"><img align="center" src="https://img.shields.io/badge/LeetCode-orange?style=flat&logo=leetcode" /></a>
-  <a href="https://www.codechef.com/users/milind_100" target="_blank"><img align="center" src="https://img.shields.io/badge/CodeChef-brown?style=flat&logo=codechef" /></a>
+  <a href="https://www.codechef.com/users/milind_5940" target="_blank"><img align="center" src="https://img.shields.io/badge/CodeChef-brown?style=flat&logo=codechef" /></a>
 </p>
 
 ---
