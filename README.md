@@ -7,6 +7,8 @@
 
 ---
 
+<img src="https://github.com/milind0001/milind0001/blob/main/Cross-platform%20software-amico.svg" width="400" alt="Developer Illustration">
+
 ### 🎯 Summary
 
 Computer Engineering student with strong foundations in **Data Structures and Algorithms (DSA)** and **Database Management Systems (DBMS)**. I enjoy building dynamic web applications using the **MERN stack** and have experience in **Node.js** backends.  
