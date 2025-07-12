@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Milind Patil</h1>
 <h3 align="center">Computer Engineering Student | Web Developer | DSA Enthusiast</h3>
 
-<p align="center">
-  <img src="https://github.com/milind0001/milind0001/blob/main/Cross-platform%20software-amico.svg" width="400" alt="Developer Illustration">
+<p align="right">
+  <img src="https://github.com/milind0001/milind0001/blob/main/Cross-platform%20software-amico.svg" width="220" alt="Developer Illustration">
 </p>
 
 - 🎓 **B.E. Computer Engineering** @ Dr. D. Y. Patil COE Pune (2022–2026)  
