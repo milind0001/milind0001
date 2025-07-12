@@ -1,86 +1,53 @@
-# 👋 Hi, I'm Milind Patil
+<h1 align="center">Hi 👋, I'm Milind Patil</h1>
+<h3 align="center">Computer Engineering Student | Web Developer | DSA Enthusiast</h3>
 
-### 🎓 Computer Engineering Student | 💻 Web Developer | 🤖 DSA & ML Enthusiast
+<p align="center">
+  <img src="https://github.com/milind0001/milind0001/blob/main/Cross-platform%20software-amico.svg" width="400" alt="Developer Illustration">
+</p>
 
-📍 Pune, MH (Open to Relocate)  
-📧 milindkpatil2004@gmail.com | 📞 +91 9373199030
-
----
-
-<img src="https://github.com/milind0001/milind0001/blob/main/Cross-platform%20software-amico.svg" width="400" alt="Developer Illustration">
-
-### 🎯 Summary
-
-Computer Engineering student with strong foundations in **Data Structures and Algorithms (DSA)** and **Database Management Systems (DBMS)**. I enjoy building dynamic web applications using the **MERN stack** and have experience in **Node.js** backends.  
-> ⚔️ Solved 250+ problems across coding platforms & **3⭐ CodeChef** coder  
-> 💡 Passionate about solving real-world problems through code and continuous learning
+- 🎓 **B.E. Computer Engineering** @ Dr. D. Y. Patil COE Pune (2022–2026)  
+- 💻 Passionate about **MERN Stack**, **DSA**, and building useful web applications  
+- 🧠 Solved 250+ coding problems | 3⭐ on CodeChef  
+- 📫 Reach me at **milindkpatil2004@gmail.com**
 
 ---
 
-### 👨‍🎓 Education
-
-**Bachelor of Engineering in Computer Engineering**  
-📍 *Dr. D. Y. Patil College of Engineering, Pune*  
-🗓️ *Nov 2022 – June 2026*  
-📊 *CGPA: 9.0 / 10*
-
----
-
-### 🚀 Projects
-
-#### 🔍 Real-Time Stock Analysis & Live Chat  
-**GitHub**: [View Project](#)  
-- Built a stock analysis website that displays high/low prices using charts and real-time APIs  
-- Integrated a **live chat** feature using **Socket.io** for user discussions  
-- Enabled **real-time, concurrent communication**, storing user data with **MongoDB**  
-
-**Tech Stack**: `JavaScript`, `Node.js`, `Express.js`, `MongoDB`, `Socket.io`, `API`, `HTML`, `CSS`
+### 🔗 Connect with me:
+<p align="left">
+  <a href="https://linkedin.com/in/milindpatil" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" /></a>
+  <a href="https://github.com/milind0001" target="_blank"><img align="center" src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github" /></a>
+  <a href="https://leetcode.com/milind_100" target="_blank"><img align="center" src="https://img.shields.io/badge/LeetCode-orange?style=flat&logo=leetcode" /></a>
+  <a href="https://www.codechef.com/users/milind_100" target="_blank"><img align="center" src="https://img.shields.io/badge/CodeChef-brown?style=flat&logo=codechef" /></a>
+</p>
 
 ---
 
-#### 🧠 Memory Allocation Analyzer  
-**GitHub**: [View Project](#)  
-- A C++ tool that analyzes code for **dynamic memory allocation**, **function count**, and more  
-- Displays variable memory sections: Stack, Heap, Data  
-- Implemented **file handling** for efficient input/output  
-
-**Tech Stack**: `C++`, `File Handling`
-
----
-
-#### 📊 Graph Visualizer — Data Structure & Algorithm Visual Tool  
-**GitHub**: [View Project](#)  
-- Created an educational tool for **interactive visualization** of graph algorithms  
-- Step-by-step animations of **shortest path**, etc. with code snippets  
-- Simplifies complex topics for students and developers  
-
-**Tech Stack**: `JavaScript`, `HTML`, `CSS`
+### 🛠️ Languages and Tools:
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" />
+</p>
 
 ---
 
-### 🧰 Skills & Tools
+### 📌 Featured Projects
 
-**Languages**:  
-`C++` (DSA), `Python`, `Java`, `HTML`, `CSS`, `JavaScript`
-
-**Databases**:  
-`MySQL`, `MongoDB`
-
-**Frameworks & Libraries**:  
-`React.js`, `Node.js`, `Express.js`, `MERN Stack`, `STL`
-
-**Tools & Others**:  
-`GitHub`, `Linux`, `Socket.io`, `API Integration`, `File Handling`
+- 🧠 **[Memory Allocation Analyzer](#)** – C++ tool to analyze memory usage and function count in code  
+- 📊 **[Graph Visualizer](#)** – Website to visualize DSA/graph algorithms with step-by-step animation  
+- 📈 **[Real-time Stock App](#)** – Live stock tracker with chat using MERN stack + socket programming  
 
 ---
 
-### 🌐 Let's Connect
-
-- [🔗 LinkedIn](https://linkedin.com/in/milindpatil)  
-- [🐙 GitHub](https://github.com/milind0001)  
-- [👨‍🍳 CodeChef](https://www.codechef.com/users/milind_100)  
-- [📘 Leetcode](https://leetcode.com/milind_100)
-
----
-
-> 🚀 *"The only way to do great work is to love what you do."* — Steve Jobs
+### 📈 GitHub Stats (optional)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=milind0001&show_icons=true&theme=github_dark" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=milind0001&layout=compact&theme=github_dark" width="48%" />
+</p>
