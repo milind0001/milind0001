@@ -1,22 +1,9 @@
 <h1 align="center">Hi 👋, I'm Milind Patil</h1>
 <h3 align="center">Computer Engineering Student | Web Developer | DSA Enthusiast</h3>
 
-
-<table>
-<tr>
-<td>
-
-- 🎓 **B.E. Computer Engineering** @ Dr. D. Y. Patil COE Pune (2022–2026)  
-- 💻 Passionate about **MERN Stack**, **DSA**, and building useful web applications  
-- 🧠 Solved 250+ coding problems | 3⭐ on CodeChef  
-- 📫 Reach me at **milindkpatil2004@gmail.com**
-
-</td>
-<td>
-  <img src="https://github.com/milind0001/milind0001/blob/main/Cross-platform%20software-amico.svg" width="220" alt="Developer Illustration">
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://github.com/milind0001/milind0001/blob/main/Cross-platform%20software-amico.svg" width="200" alt="Developer Illustration">
+</p>
 
 - 🎓 **B.E. Computer Engineering** @ Dr. D. Y. Patil COE Pune (2022–2026)  
 - 💻 Passionate about **MERN Stack**, **DSA**, and building useful web applications  
@@ -24,7 +11,6 @@
 - 📫 Reach me at **milindkpatil2004@gmail.com**
 
 ---
-
 ### 🔗 Connect with me:
 <p align="left">
   <a href="https://www.linkedin.com/in/milind-patil-1aa333259/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" /></a>
